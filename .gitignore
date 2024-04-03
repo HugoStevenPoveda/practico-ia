@@ -1,0 +1,5 @@
+# Ignorar la carpeta venv
+venv/
+
+# Ignorar el archivo appnb.ipynb
+appnb.ipynb
